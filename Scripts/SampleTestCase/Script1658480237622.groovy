@@ -27,7 +27,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Us
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/input_Password_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/img'))
-
 WebUI.closeBrowser()
 
